@@ -12,3 +12,4 @@ services:
       NEKO_PASSWORD_ADMIN: admin
       NEKO_EPR: 52000-52100
       NEKO_ICELITE: 1
+      NEKO_STUN_SERVER: "stun:stun.l.google.com:19302"
